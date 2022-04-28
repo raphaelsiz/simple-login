@@ -1,0 +1,25 @@
+{
+  "name": "@mergerg/simple-login",
+  "version": "1.0.0",
+  "description": "Just a simple little login system! Not gonna claim to be very secure",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raphaelsiz/simple-login.git"
+  },
+  "keywords": [
+    "mongoose",
+    "login",
+    "mongodb",
+    "auth"
+  ],
+  "author": "mergerg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/raphaelsiz/simple-login/issues"
+  },
+  "homepage": "https://github.com/raphaelsiz/simple-login#readme"
+}
